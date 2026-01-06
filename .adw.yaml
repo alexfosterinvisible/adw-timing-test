@@ -1,0 +1,8 @@
+project_id: "alexfosterinvisible/adw-timing-test"
+artifacts_dir: "./artifacts"
+source_root: "./src"
+ports:
+  backend_start: 9300
+  frontend_start: 9400
+commands:
+  - "/Users/dev3/code4b/adw-framework/commands"
