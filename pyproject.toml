@@ -1,0 +1,9 @@
+[project]
+name = "timing-test"
+version = "0.1.0"
+description = "ADW SDLC Timing Test Project"
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
